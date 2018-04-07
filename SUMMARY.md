@@ -21,7 +21,7 @@
     * [Meta College 元法术](Magic/Meta-College.md)
     * [Mind Control College 精神控制法术](Magic/Mind-Control-College.md)
     * [Movement College 移动法术](Magic/Movement-College.md)
-    * [Sound College 声系法术](Magic/Sound-college.md)
+    * [Sound College 声系法术](Magic/Sound-college.md)
 
 
 
