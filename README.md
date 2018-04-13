@@ -26,6 +26,8 @@ Gitbook: https://www.gitbook.com/book/peiyuanqi/gurps-4th-edition
   - [Communication and Empathy College 交流和情感法术](Magic/Communication-Empathy-College.md)
   - [Earth College 地系](Magic/Earth-College.md)
   - [Enchantment College 附魔系](Magic/Enchantment-College.md)
+      - [Weapon Enchantments 武器附魔](Magic/Weapon-Enchantments.md)
+      - [Wizardly Tools 法师道具](Magic/Wizardly-Tools.md)
   - [Fire College 火系](Magic/Fire-College.md)
   - [Food College 食物法术](Magic/Food-College.md)
   - [Gate College 门法术](Magic/Gate-College.md)
