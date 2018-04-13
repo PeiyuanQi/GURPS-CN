@@ -13,15 +13,23 @@
     * [Fire College 火系](Magic/Fire-College.md)
     * [Food College 食物法术](Magic/Food-College.md)
     * [Gate College 门法术](Magic/Gate-College.md)
-    * [Healing College 治疗法术](Magic/Healing-College.md)
+    * [Healing College 治疗系](Magic/Healing-College.md)
     * [Illusion and Creation College 幻影和创造法术](Magic/Illusion-Creation-College.md)
     * [Knowledge College 知识法术](Magic/Knowledge-College.md)
     * [Light Darkness College 光暗法术](Magic/Light-Darkness-College.md)
+    * [Linking Spells 链接法术](Magic/Linking-Spells.md)
     * [Making and Breaking College 制造与破坏法术](Magic/Making-Breaking-College.md)
     * [Meta College 元法术](Magic/Meta-College.md)
     * [Mind Control College 精神控制法术](Magic/Mind-Control-College.md)
     * [Movement College 移动法术](Magic/Movement-College.md)
-    * [Sound College 声系法术](Magic/Sound-College.md)
+    * [Necromantic College 死灵系](Magic/Necromantic-College.md)
+    * [Plant College 植物系](Magic/Plant-College.md)
+    * [Protection and Warning College 保护与警戒法术](Magic/Protection-Warning-College.md)
+    * [Sound College 声系](Magic/Sound-College.md)
+    * [Technological College 科技法术](Magic/Technological-College.md)
+    * [Water College 水系](Magic/Water-College.md)
+    * [Weather College 天气法术](Magic/Weather-College.md)
+
 
 
 
